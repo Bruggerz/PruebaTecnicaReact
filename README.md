@@ -2,9 +2,9 @@
 
 ## Instrucciones de ejecución
 
-Para ejecutar la aplicacion completa se debió ejecutar previamente el API Rest en Python
+Para ejecutar la aplicacion completa se debió ejecutar previamente el API Rest en Python (otro repositorio)
 
-### Prerequisitos
+### Herramientas utilizadas
 - NodeJs 14.16+
 
 En primer lugar para ejecutarse, se debe instalar las dependencias de React y las herramientas utilizadas ejecutando
